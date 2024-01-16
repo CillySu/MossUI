@@ -1,99 +1,41 @@
-/* Background-primary */
-/* HSL */
-174, 10%, 30%
-/* RGB */
-rgb(25, 67, 89)
-/* HEX */
-#11435C
+/* HSL Values */
+/* 174, 10%, 30% */ --color-dark-slate: /* A dark, muted blue-green, suitable for backgrounds or text */
+/* 171, 30%, 85% */ --color-light-aqua: /* A very light, soft blue-green, great for light backgrounds or hover states */
+/* 171, 30%, 80% */ --color-soft-teal: /* Soft teal, good for lighter backgrounds or secondary elements */
+/* 170, 50%, 30% */ --color-deep-sea: /* A deeper, more vibrant teal, suitable for accents or important UI elements */
+/* 170, 30%, 40% */ --color-medium-teal: /* Medium teal, versatile for backgrounds or secondary text */
+/* 170, 50%, 25% */ --color-dark-teal: /* A darker teal, good for text or active states in UI */
+/* 170, 30%, 35% */ --color-muted-teal: /* Muted teal, suitable for subdued backgrounds or less prominent text */
+/* 170, 50%, 20% */ --color-deep-ocean: /* Very dark teal, ideal for text or contrast elements */
+/* 175, 69%, 90% */ --color-pale-mint: /* Extremely pale mint, excellent for background highlights or faint elements */
+/* 170, 79%, 85% */ --color-fresh-aqua: /* Fresh aqua, good for highlights or active UI components */
+/* 174, 71%, 80% */ --color-light-teal: /* Light teal, suitable for backgrounds or light UI elements */
+/* 174, 65%, 80% */ --color-bright-aqua: /* Bright aqua, great for attention-grabbing elements */
 
-/* colour-base-1 */
-/* HSL */
-171, 30%, 85%
-/* RGB */
-rgb(23, 58, 85)
-/* HEX */
-#193C6B
+/* HEX Values */
+/* #455453 */ --color-dark-slate-hex: /* Similar to dark slate in HSL */
+/* #CDE4E1 */ --color-light-aqua-hex: /* Similar to light aqua in HSL */
+/* #BDDBD7 */ --color-soft-teal-hex: /* Similar to soft teal in HSL */
+/* #267366 */ --color-deep-sea-hex: /* Similar to deep sea in HSL */
+/* #47857A */ --color-medium-teal-hex: /* Similar to medium teal in HSL */
+/* #206055 */ --color-dark-teal-hex: /* Similar to dark teal in HSL */
+/* #3E746B */ --color-muted-teal-hex: /* Similar to muted teal in HSL */
+/* #7AB8AD */ --color-deep-ocean-hex: /* Similar to deep ocean in HSL */
+/* #D4F7F4 */ --color-pale-mint-hex: /* Similar to pale mint in HSL */
+/* #BAF7ED */ --color-fresh-aqua-hex: /* Similar to fresh aqua in HSL */
+/* #A8F0E9 */ --color-light-teal-hex: /* Similar to light teal in HSL */
+/* #ABEDE6 */ --color-bright-aqua-hex: /* Similar to bright aqua in HSL */
 
-/* colour-base-2 */
-/* HSL */
-171, 30%, 80%
-/* RGB */
-rgb(23, 58, 78)
-/* HEX */
-#193C4A
-
-/* grey-text-normal */
-/* HSL */
-170, 50%, 30%
-/* RGB */
-rgb(53, 92, 101)
-/* HEX */
-#365CCF
-
-/* red-text-normal */
-/* HSL */
-170, 30%, 40%
-/* RGB */
-rgb(217, 85, 89)
-/* HEX */
-#DE0059
-
-/* grey-text-muted */
-/* HSL */
-170, 50%, 25%
-/* RGB */
-rgb(63, 99, 115)
-/* HEX */
-#406373
-
-/* red-text-muted */
-/* HSL */
-170, 30%, 35%
-/* RGB */
-rgb(220, 88, 93)
-/* HEX */
-#ED1D5B
-
-/* grey-faint */
-/* HSL */
-170, 50%, 20%
-/* RGB */
-rgb(67, 103, 114)
-/* HEX */
-#436972
-
-/* red-faint */
-/* HSL */
-170, 30%, 60%
-/* RGB */
-rgb(225, 95, 98)
-/* HEX */
-#ED5E60
-
-/* background-primary */
-/* HSL */
-174, 70%, 90%
-/* RGB */
-rgb(23, 60, 86)
-/* HEX */
-#194056
-
-/* background-primary-alt */
-/* HSL */
-170, 80%, 85%
-/* RGB */
-rgb(53, 102, 120)
-/* HEX */
-#366D78
-
-/* background-secondary */
-/* HSL */
-174, 70%, 80%
-/* RGB */
-rgb(23, 60, 95)
-/* HEX */
-#194B
-
-/* background-secondary-blur */
-/* HSL */
-174, 64
+/* RGB Values */
+/* 69, 84, 83 */ --color-dark-slate-rgb /* Similar to dark slate in HSL and HEX */
+/* 205, 228, 225 */ --color-light-aqua-rgb /* Similar to light aqua in HSL and HEX */
+/* 189, 219, 215 */ --color-soft-teal-rgb /* Similar to soft teal in HSL and HEX */
+/* 38, 115, 102 */ --color-deep-sea-rgb /* Similar to deep sea in HSL and HEX */
+/* 71, 133, 122 */ --color-medium-teal-rgb /* Similar to medium teal in HSL and HEX */
+/* 32, 96, 85 */ --color-dark-teal-rgb /* Similar to dark teal in HSL and HEX */
+/* 62, 116, 107 */ --color-muted-teal-rgb /* Similar to muted teal in HSL and HEX */
+/* 122, 184, 173 */ --color-deep-ocean-rgb /* Similar to deep ocean in HSL and HEX */
+/* 212, 247, 244 */ --color-pale-mint-rgb /* Similar to pale mint in HSL and HEX */
+/* 186, 247, 237 */ --color-fresh-aqua-rgb /* Similar to fresh aqua in HSL and HEX */
+/* 168, 240, 233 */ --color-light-teal-rgb /* Similar to light teal in HSL and HEX */
+/* 171, 237, 230 */ --color-bright-aqua-rgb /* Similar to bright aqua in HSL and HEX */
